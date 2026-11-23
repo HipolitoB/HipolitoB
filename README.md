@@ -6,7 +6,7 @@
 - 🌏 **Languages I manage & learn:**
   - **Working & Business Fluency:** Spanish *(Native)* · English *(`C1`)* · Catalan *(`B2+` Bilingual)* · Japanese *(`N1` reading)*
   - **Active Daily Study & Reading Comprehension:** Chinese *(daily study)* · French · Italian · Portuguese · German · Greek · Russian *(tracked via Anki & LingQ)*
-- 📫 How to reach me: [`hipolitobaez223@gmail.com`](mailto:hipolitobaez223@gmail.com) · [Portfolio](https://hipolitob.github.io)
+- 📫 How to reach me: [`hipolitobaez223@gmail.com`](mailto:hipolitobaez223@gmail.com) 
 
 ---
 
