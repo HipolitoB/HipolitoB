@@ -13,7 +13,7 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-hipolito-baez)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F4C81?logo=google-chrome&logoColor=white)](https://hipolitob.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-C2410C?logo=google-chrome&logoColor=white)](https://hipolitob.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hipolitobaez223@gmail.com)
 
 ---
