@@ -22,6 +22,7 @@ jobs:
           from zoneinfo import ZoneInfo
           from pathlib import Path
           import re
+          import sys
 
           hour = datetime.now(ZoneInfo("Europe/Madrid")).hour
           if 5 <= hour < 12:
@@ -33,7 +34,10 @@ jobs:
 
           readme = Path("README.md")
           text = readme.read_text(encoding="utf-8")
-          new_text = re.sub(r"^### .*👋$", greeting, text, count=1, flags=re.MULTILINE)
+          new_text, count = re.subn(r"^### .*👋$", greeting, text, count=1, flags=re.MULTILINE)
+          if count == 0:
+              print("ERROR: Greeting heading regex did not match README.md", file=sys.stderr)
+              sys.exit(1)
           if new_text != text:
               readme.write_text(new_text, encoding="utf-8")
               print(f"Updated greeting to: {greeting}")
