@@ -1,6 +1,6 @@
-### Καληνύχτα! · Kalinixta 👋
+### Salve! 👋
 
-- 🎓 I'm **José Hipólito Baez**, a Dual-Intensive **International Commerce** candidate at **Fundació UAB** (Yr 2 GPA `~9.0/10`), **FUAB Formació Promotion Support Trainee** (`2026–2027`), and **Port Operations** trainee at **Port of Barcelona** (*Forma't al Port*).
+- 🎓 I'm **José Hipólito Baez**, a Dual-Intensive **International Commerce** candidate at **Fundació UAB** (Yr 2 GPA `~8.8/10`), **FUAB Formació Promotion Support Trainee** (`2026–2027`), and **Port Operations** trainee at **Port of Barcelona** (*Forma't al Port*).
 - 🎯 Focused on the intersection of **Maritime Finance · Maritime Corporate Procurement · Supply Chain Analytics & AI**.
 - 🚢 Previously supported purchasing & logistics at **Rosario BZ** (`500+` SKUs, Sage ERP 3-way matching with `-18%` billing discrepancies, and `~4 hrs/wk` saved via Python/Pandas CSV automation).
 - 💻 This is my learning & building space: tracking **Python, Supply Chain Analytics, and AI** in [`ai-learning-log`](https://github.com/HipolitoB/ai-learning-log) (*Harvard CS50x* completed; currently finishing *Elements of AI*, *IBM SkillsBuild*, and *Anthropic Academy*), plus web projects like [**Origen Andino**](https://origenandino.base44.app).
