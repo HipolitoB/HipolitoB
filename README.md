@@ -1,4 +1,4 @@
-### Καληνύχτα! · Kalinixta 👋
+### Καλησπέρα! · Kalispera 👋
 
 - 🎓 I'm **José Hipólito Baez**, a Dual-Intensive **International Commerce** candidate at **Fundació UAB** (Yr 2 GPA `~8.7/10`), **FUAB Formació Promotion Support Trainee** (`2026–2027`), and **Port Operations** trainee at **Port of Barcelona** (*Forma't al Port*).
 - 🎯 Focused on the intersection of **Maritime Finance · Maritime Corporate Procurement · Supply Chain Analytics & AI**.
